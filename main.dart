@@ -1,11 +1,9 @@
 void main() {
-  // 주석을 작성하는 첫번째 방법
-  
-  /*
-  *   주석을 작성하는 2번재 방법
-  * 
-  *
-  * /
+  dynamic name = '코드팩토리';
+  print(name);
 
-  // print('hello world!! dart started');
+  name = 1;
+  print(name);
+
+  print('hello world!!');
 }
